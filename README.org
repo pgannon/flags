@@ -1,0 +1,8 @@
+* Overview
+
+This icon set contains icons of flags for countries and states, with
+limited support for ISO currency pairs. The icons of flags were
+originally obtained in Wikipedia. For example, the US flag is located
+[[http://en.wikipedia.org/wiki/File:Flag_of_the_United_States.svg][here]].  Most of the country flag icons are licensed under the Public
+Domain. The additional work done on top is licensed under creative
+commons.
